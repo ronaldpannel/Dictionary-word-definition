@@ -23,8 +23,8 @@ body {
   margin: 10px;
   max-width: 450px;
   text-align: center;
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 20px;
+  font-weight: bold;
 }
 .heading {
   font-size: 28px;
@@ -35,7 +35,7 @@ body {
   height: 53px;
   background-color: rgba(255, 255, 255, 0.6);
   border-color: rgba(255, 255, 255, 0.4);
-  font-size: 16px;
+  font-size: 20px;
   padding: 0 42px;
   border-radius: 5px;
   margin-bottom: 5px;
